@@ -79,6 +79,7 @@ the installation by doing the following two things:
 The FIPS module must have the self tests run, and the FIPS module config file
 output generated on every machine that it is to be used on. For OpenSSL 3.1.2
 you must not copy the FIPS module config file output data from one machine to another.
+Add U to unclock
 
 On Unix, the `openssl fipsinstall` command will be invoked as follows by default:
 

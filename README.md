@@ -82,7 +82,7 @@ wiki.
 For Testing and Development
 ---------------------------
 
-Although testing and development could in theory also be done using
+Although testing and  development could in theory also be done using
 the source tarballs, having a local copy of the git repository with
 the entire project history gives you much more insight into the
 code base.
@@ -136,7 +136,7 @@ containing additional information on specific topics.
  * [Information about the OpenSSL QUIC protocol implementation](README-QUIC.md)
  * [Information about the OpenSSL Provider architecture](README-PROVIDERS.md)
  * [Information about using the OpenSSL FIPS validated module](README-FIPS.md)
-
+ * R - check to unclock
 The OpenSSL Guide
 -----------------
 
